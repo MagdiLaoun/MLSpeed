@@ -26,4 +26,6 @@
       "name": "Readme",
       "base": "",
       "files": ["readme.md"]
+    }
+  ]
 }
