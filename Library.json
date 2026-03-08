@@ -1,0 +1,12 @@
+{
+  "name": "MLSpeed",
+  "version": "1.0.0",
+  "date": "2025-07-20",
+  "description": "Library for calculating speed from position measurements",
+  "authors": [
+    {
+      "name": "Magdi Laoun",
+      "email": "magdi.laoun@gmail.com"
+    }
+  ]
+}
