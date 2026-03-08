@@ -1,5 +1,5 @@
 # MLSpeed
-This library allows you to calculate speed from position, given at regular intervals by a sensor.
+Cette librairie permet de calculer la vitesse à partir de la position, donnée à intervalle régulier par un capteur.
 La vitesse est par définition la dérivée de la position par rapport au temps.
 Soit pn et tn la position et le temps mesurés à l'instant tn.
 Normallement, la vitesse à l'instant tn se calcule ainsi: vn = (pn - pn_1)/(tn - tn_1).
